@@ -1,2 +1,2 @@
 # BilibiliFlvToMp4.bat
-As title said.
+Convert .flv files downloaded from bilibili site to .mp4 file.
